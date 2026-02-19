@@ -1,5 +1,9 @@
 fastapi
 uvicorn
-python-igraph
-numpy
+gunicorn
 pandas
+networkx
+numpy
+python-multipart
+
+scipy
